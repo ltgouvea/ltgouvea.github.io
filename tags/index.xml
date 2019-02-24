@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lucas Gouvêa</title>
+    <link>https://ltgouvea.github.io/hugo_terminal_cv/tags/</link>
+    <description>Recent content in Tags on Lucas Gouvêa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>2019</copyright>
+    
+	<atom:link href="https://ltgouvea.github.io/hugo_terminal_cv/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
