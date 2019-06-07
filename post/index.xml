@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lucas Gouvêa</title>
-    <link>https://ltgouvea.github.io/hugo_terminal_cv/post/</link>
+    <link>https://ltgouvea.github.io/post/</link>
     <description>Recent content in Posts on Lucas Gouvêa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>2019</copyright>
     <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ltgouvea.github.io/hugo_terminal_cv/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ltgouvea.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bem-vindo</title>
-      <link>https://ltgouvea.github.io/hugo_terminal_cv/post/welcome/</link>
+      <link>https://ltgouvea.github.io/post/welcome/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ltgouvea.github.io/hugo_terminal_cv/post/welcome/</guid>
+      <guid>https://ltgouvea.github.io/post/welcome/</guid>
       <description>Se você curtiu meu currículo/minhas habilidades/meu perfil e deseja me contratar, mande um e-mail para lucas.fim@gmail.com</description>
     </item>
     
