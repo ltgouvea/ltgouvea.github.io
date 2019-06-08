@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>2019</copyright>
-    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ltgouvea.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://ltgouvea.github.io/projects/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltgouvea.github.io/projects/</guid>
+      <description>Grupo Tesseract O grupo tesseract é uma organização da qual faço parte há alguns anos e participo ativamente, seja em projetos ou contribuindo pro conhecimento e crescimento interno da organização. Temos um modelo de trabalho transparente, horizontal, orientado a melhorias contínuas e com o objetivo de tornar o desenvolvimento de software uma atividade mais humana. Acesse grupotesseract.com.br para mais informações ou procure a gente no Github.
+
+Trampos musicais da vida Gosto muito de tocar guitarra.</description>
+    </item>
     
     <item>
       <title>Bem-vindo</title>
@@ -22,7 +33,7 @@
     </item>
     
     <item>
-      <title>CV</title>
+      <title>Currículo</title>
       <link>https://ltgouvea.github.io/curriculum/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -30,16 +41,6 @@
       <description>Dados  Nome: Lucas Thiago Assumpção Gouvêa Data de nascimento: 09/11/1990 (28 anos) Nacionalidade: Brasil, São Paulo, SP. Estado Civil: solteiro  Contato  Telefone: +55 14 99634 9440 Email: lucas.fim@gmail.com Github: https://github.com/ltgouvea  Formação Acadêmica  Bacharelado em Ciência da Computação. UNESP, câmpus de Bauru, 2010-2016.  Idiomas Humanos Português, Inglês (fluente), Espanhol (intermediário)
 Linguagens de Programação/Frameworks PHP, Javascript, GraphQL, SQL, Shellscript, Angular, React, Ionic, Laravel, Node.js
  Estudando: clojure/clojurescript, Golang, Dart.</description>
-    </item>
-    
-    <item>
-      <title>Projetos</title>
-      <link>https://ltgouvea.github.io/projects/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ltgouvea.github.io/projects/</guid>
-      <description>Grupo Tesseract O grupo tesseract é uma organização da qual faço parte há alguns anos e participo ativamente, seja em projetos ou contribuindo pro conhecimento e crescimento interno da organização. Temos um modelo de trabalho transparente, horizontal, orientado a melhorias contínuas e com o objetivo de tornar o desenvolvimento de software uma atividade mais humana. Acesse grupotesseract.com.br para mais informações ou procure a gente no Github.
-Trampos musicais da vida Gosto muito de tocar guitarra.</description>
     </item>
     
   </channel>

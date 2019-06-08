@@ -1,0 +1,9 @@
+.post-cover {
+    border-radius: 5px;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
