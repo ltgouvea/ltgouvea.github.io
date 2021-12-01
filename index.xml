@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>2020</copyright>
-    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ltgouvea.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ltgouvea.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projetos</title>
       <link>https://ltgouvea.github.io/projects/</link>
@@ -50,6 +46,17 @@
       <description>Dados  Nome: Lucas Thiago Assumpção Gouvêa Data de nascimento: 09/11/1990 (30 anos) Nacionalidade: Brasil, São Paulo, SP. Estado Civil: solteiro  Contato  Telefone: +55 14 99634 9440 Email: lucas.fim@gmail.com Github: https://github.com/ltgouvea  Formação Acadêmica  Bacharelado em Ciência da Computação. UNESP, câmpus de Bauru, 2010-2016.  Idiomas Humanos Português, Inglês (fluente), Espanhol (intermediário)
 Linguagens de Programação/Frameworks PHP, Javascript, GraphQL, SQL, Shellscript, Angular, React, Ionic, Laravel, Node.js
  Estudando: clojure/clojurescript, Golang, Dart e sempre aprendendo mais sobre ferramentas de shell.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://ltgouvea.github.io/resume/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltgouvea.github.io/resume/</guid>
+      <description>Info  Name: Lucas Thiago Assumpção Gouvêa Birth date: 09/11/1990 (31 y.o) Nationality: Brasil, São Paulo, SP. Civil state: Single   Contact  Phone: +55 14 99634 9440 Email: lucas.fim@gmail.com Github: https://github.com/ltgouvea   Academic Formation  Computer Science Bachelor. UNESP, Bauru campus, 2010-2016.   Languages Human Portuguese, English (fluent), Spanish (intermediate)
+Programming Langages/Frameworks PHP, Javascript, GraphQL, SQL, Shellscript, Angular, React, Ionic, Laravel, Node.js
+ Studying: Data Science, Symfony Framework, GoLang, Python, R.</description>
     </item>
     
   </channel>

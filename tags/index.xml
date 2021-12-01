@@ -6,10 +6,6 @@
     <description>Recent content in Tags on Lucas Gouvêa - Web Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>2020</copyright>
-    
-	<atom:link href="https://ltgouvea.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>2020</copyright><atom:link href="https://ltgouvea.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
